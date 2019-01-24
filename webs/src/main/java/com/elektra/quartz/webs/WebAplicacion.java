@@ -10,6 +10,8 @@ public class WebAplicacion {
 	public static void main(String[] args) {
 		//Agenda a = new Agenda();
 		SpringApplication.run(WebAplicacion.class, args);
+		
+		Agenda a = new Agenda();
 	}
 }
 
